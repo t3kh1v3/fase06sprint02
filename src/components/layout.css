@@ -1,0 +1,11 @@
+.layout-container{
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(to bottom, #dcffd9, #ffffff, #d6f8cc, #ffffff);
+}
+
+.backgroud-pag {
+  margin-top: -2em;
+  margin-bottom: -2em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
